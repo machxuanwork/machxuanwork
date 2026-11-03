@@ -8,13 +8,13 @@
 
 <p>
   <a href="mailto:machngocxuan2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-machngocxuan2004-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/machngocxuanwork"><img src="https://img.shields.io/badge/GitHub-machngocxuanwork-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/machxuanwork"><img src="https://img.shields.io/badge/GitHub-machxuanwork-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.facebook.com/xuan.mach.04"><img src="https://img.shields.io/badge/Facebook-xuan.mach.04-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=machngocxuanwork&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/machngocxuanwork?label=Followers&style=flat-square&color=26D0CE&logo=github" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=machxuanwork&label=Profile%20Views&color=2E9EF7&style=flat-square" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/machxuanwork?label=Followers&style=flat-square&color=26D0CE&logo=github" alt="Followers">
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2EA44F?style=flat-square" alt="Open to opportunities">
   <img src="https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City,%20VN-DA251D?style=flat-square" alt="Location">
 </p>
@@ -161,12 +161,12 @@ With approximately **2 years of practical experience**, I've worked across the f
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machngocxuanwork&theme=tokyonight" width="100%" alt="Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=machxuanwork&theme=tokyonight" width="100%" alt="Profile Details">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=machngocxuanwork&theme=tokyonight" width="49%" alt="GitHub Stats">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=machngocxuanwork&theme=tokyonight" width="49%" alt="Most Commit Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=machxuanwork&theme=tokyonight" width="49%" alt="GitHub Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=machxuanwork&theme=tokyonight" width="49%" alt="Most Commit Languages">
 
-<img src="https://streak-stats.demolab.com?user=machngocxuanwork&theme=tokyonight&hide_border=true&border_radius=10" width="98%" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=machxuanwork&theme=tokyonight&hide_border=true&border_radius=10" width="98%" alt="GitHub Streak">
 
 </div>
 
